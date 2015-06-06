@@ -19,3 +19,11 @@ you use one instead of another?
 	project. Cloning is making a copy of the entire history of commits of
 	a repository either on the same machine or a remote one. Cloning on
 	github server is known as fork.	
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+	It works like an offline copy of the last synced commit which is 
+	useful in case we are offline and want to keep a track of how long
+	we have moved ahead of the online repository.
+
