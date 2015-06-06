@@ -1,11 +1,21 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all
+your work local?
 
 	Its better to store the files on the cloud to be easy to collaborate 
 	with others and also for the self to easily access the files from 
 	any computer.
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
 
 	Again automatic syncing might end up in broken code and can manifest 
 	bizarre situations. To avoid that, its better to manually sync the 
 	files as we better know when to pull.
+
+Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+
+	Branching is on the same repository, like different paths to a 
+	project. Cloning is making a copy of the entire history of commits of
+	a repository either on the same machine or a remote one. Cloning on
+	github server is known as fork.	
