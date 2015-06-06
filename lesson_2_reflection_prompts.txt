@@ -30,3 +30,11 @@ it in the diagram the way we do?
 	It results in the logical merging of the files of the snapshots. The 
 	final commit now contains the features of both the branches being 
 	merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git's automatic merging is pretty smart as it knows when to leave 
+	the control to the author when there are conflicts, which is in 
+	present the best thing to do. On the other hand it easily does the
+	easy merges saving us the time of copy pasting code from one commit
+	to another.
