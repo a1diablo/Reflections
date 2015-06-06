@@ -18,3 +18,15 @@ history organized? How would branches help?
 
 	When we are making certain extensions to some project and we don't 
 	want to break the existing code by trying out some new variations.
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams help to visualize the timeline of the commits and the logical
+	paths the project is taking which is very helpful.
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+	It results in the logical merging of the files of the snapshots. The 
+	final commit now contains the features of both the branches being 
+	merged.
