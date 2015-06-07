@@ -27,3 +27,12 @@ remote stored locally?
 	useful in case we are offline and want to keep a track of how long
 	we have moved ahead of the online repository.
 
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+	We could be making different parts of the project separately and then
+	combining them manually, but it would be extremely hard to piece 
+	everything together. Git or GitHub is definitely the easy choice for 
+	collaboration.
+
+	
