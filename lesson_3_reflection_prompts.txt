@@ -35,4 +35,9 @@ easier, and what would be harder?
 	everything together. Git or GitHub is definitely the easy choice for 
 	collaboration.
 
-	
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+	Trying an altogether new functionality can be a case when we add a 
+	separate branch otherwise we can directly make the changes in master
+	which is way less complicated.	
